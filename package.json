@@ -1,0 +1,25 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "This is a chat using nodejs and socketio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlandovallejos/ChatIO.git"
+  },
+  "author": "Orlando Vallejos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlandovallejos/ChatIO/issues"
+  },
+  "homepage": "https://github.com/orlandovallejos/ChatIO#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.1",
+    "jquery": "^3.1.1",
+    "socket.io": "^1.7.3"
+  }
+}
